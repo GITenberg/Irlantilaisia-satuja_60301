@@ -1,5 +1,5 @@
 _repo: Irlantilaisia-satuja_60301
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Rytkönen, Antti
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '48910'
     url: http://www.gutenberg.org/2009/agents/48910
     wikipedia: https://fi.wikipedia.org/wiki/Antti_Rytkönen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -19,6 +22,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60301#Irlantilaisia-satuja
 gutenberg_issued: '2019-09-15'
 gutenberg_type: Text
 identifiers:
